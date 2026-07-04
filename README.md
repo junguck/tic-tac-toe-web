@@ -1,2 +1,2 @@
 # tic-tac-toe-web
-version ameliorer de la console
+version ameliorer de la console que avait ete faites
